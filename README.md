@@ -1,1 +1,1 @@
-![Resultado](site_gamesshop/resultado.png)
+![Resultado](https://github.com/samanthacorrea/site_gamesshop/blob/master/resultado.png)
